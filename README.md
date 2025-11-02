@@ -54,10 +54,10 @@ Semua data seperti posisi burung, pipa, dan skor akan direset kembali.
 
 ## Dokumentasi ##
 ## Tampilan Sebelum Mulai Game ##
-![Deskripsi gambar](Dokumentasi/gameplayExit.png)
+![Deskripsi gambar](Dokumentasi/playgameExit.png)
 
 ## Tampilan Papan Score ##
-![Deskripsi gambar](Dokumentasi/score.png)
+![Deskripsi gambar](Dokumentasi/papanscore.png)
 
 ## Tampilan Saat Game Over Menyentuh Tanah ##
 ![Deskripsi gambar](Dokumentasi/GOmenyentuhtanah.png)
