@@ -53,3 +53,14 @@ Setelah game over, pemain bisa menekan tombol R untuk memulai ulang permainan da
 Semua data seperti posisi burung, pipa, dan skor akan direset kembali.
 
 ## Dokumentasi ##
+## Tampilan Sebelum Mulai Game ##
+![Deskripsi gambar](Dokumentasi/gameplayExit.png)
+
+## Tampilan Papan Score ##
+![Deskripsi gambar](Dokumentasi/score.png)
+
+## Tampilan Saat Game Over Menyentuh Tanah ##
+![Deskripsi gambar](Dokumentasi/GOmenyentuhtanah.png)
+
+## Tampilan Saat Game Over Menyentuh Pipa ##
+![Deskripsi gambar](Dokumentasi/GOmenyentuhpipa.png)
